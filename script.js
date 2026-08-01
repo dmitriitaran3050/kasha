@@ -19,7 +19,7 @@
     TELEGRAM_URL: "https://t.me/LisitsyUm_bot?start=kasha",
     VK_URL: "https://vk.me/lisicium?ref=kasha&ref_source=vizitka",
     MAX_URL: "https://max.ru/id780518760353_bot?start=kasha",
-    METRIKA_ID: "METRIKA_ID",
+    METRIKA_ID: "111219273",
   };
 
   var urlByCta = {
